@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drsowmyajagadeesan
-- 👀 I’m interested in R&D with AI, ML and DS
+- 👀 I’m interested in R&D with AI, ML and DS || Looking for Postdoctoral opportunity 
 - 🌱 I’m currently working Python, R, Tableau, NLP packages
 - 💞️ I’m looking to collaborate with projects / research in EDM, NLP, Adaptive Learning and much more.
 - 📫 How to reach me? Pls reach me thru LinkedIn / sowmyaemails@gmail.com
